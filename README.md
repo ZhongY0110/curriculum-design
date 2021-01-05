@@ -1,2 +1,2 @@
 # curriculum-design
-课程设计
+各种课程设计
